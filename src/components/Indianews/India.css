@@ -1,0 +1,56 @@
+.left {
+    min-height: inherit;
+    width: 60vw;
+}
+
+.newsholder {
+    width: inherit;
+    height: 30vh;
+    display: flex;
+    margin-top: 1vmax;
+    padding: 1vmax;
+}
+
+.left1 {
+    width: 40vw;
+    height: inherit;
+    padding: 1vmax;
+    line-height: 1.4vmax;
+}
+
+.right1 {
+    width: 20vw;
+    height: inherit;
+}
+
+.left1 h5 {
+    font-size: 0.8vmax;
+    font-family: monteserrat;
+}
+
+.left1 h6 {
+    font-size: 1.1vmax;
+    margin-top: 0.7vmax;
+}
+
+.left1 p {
+    font-size: 1vmax;
+    margin-top: 1.2vmax;
+    font-weight: 400;
+    width: 35vw;
+}
+
+.right1 img {
+    width: inherit;
+    object-fit: cover;
+}
+
+
+
+.imgh {
+    position: absolute;
+    top: 20vh;
+    left: 20vw;
+    background-color: white;
+
+}

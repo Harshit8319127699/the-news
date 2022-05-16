@@ -1,0 +1,15 @@
+nav{
+    width: inherit;
+    height: 9vh;
+    background-color: rgb(27, 25, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav h1{
+    font-size: 3.4vmax;
+    font-family:voyage;
+    font-weight: 300;
+    color: white;
+    letter-spacing: 1vmax;
+}
